@@ -1,0 +1,12 @@
+---------------------------------------
+iniciar entorno virtual 
+---------------------------------------
+    ejecutar desde la terminal TestUpc-env\Scripts\activate
+---------------------------------------
+apagar entorno virtual 
+---------------------------------------
+    ejecutar desde la terminal deactivate
+---------------------------------------
+levantar servidor uvicorn
+---------------------------------------
+    en la terminal ejecutar "uvicorn main:app --port 5000 --reload"
